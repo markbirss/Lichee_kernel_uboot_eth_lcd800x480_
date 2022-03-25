@@ -53,6 +53,9 @@ ARCH=arm make menuconfig
 ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- make -j4
 ```
 
+![Image description](https://github.com/nathalis/Lichee_kernel_uboot_eth_lcd800x480_/blob/main/Uboot%20ethernet%20enable/68747470733a2f2f626f782e6b616e636c6f75642e636e2f61343731386236363966386239626433646161373530643361353039356532365f393732783538322e706e67.png)
+
+
 target files: 
 
 ```shell
@@ -61,3 +64,8 @@ u-boot-sunxi-with-spl.bin
 sun8i-v3s-licheepi-zero-dock.dtb
 rtl8xxxu.ko
 ```
+
+
+![Image description](https://github.com/nathalis/Lichee_kernel_uboot_eth_lcd800x480_/blob/main/2022-03-25%20at%2019-38-34.jpg)
+
+
