@@ -42,7 +42,7 @@ git apply licheepi-kernel-5.12.0.patch
 CROSS_COMPILE=arm-linux-gnueabihf- ARCH=arm make licheepi_zero_defconfig
 make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- -j4
 make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- dtbs
-shell
+```
 
 ```shell
 # Uboot
